@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Gabriel!</h1>
 <h3 align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad (algunos más cutres que otros 🥸). Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gguardiola" alt="gguardiola" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gguardiola" alt="gguardiola" /></a> </p>
 
 - 🌱 Actualmente aprendiendo **NextJS, React, C# para Unity y Blender**
   
@@ -18,7 +18,6 @@
 
 - ⚡ Script - Servidor/Cliente TFTP | Python [https://github.com/Gguardiola/XACO-Protocol-TFTP](https://github.com/Gguardiola/XACO-Protocol-TFTP)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
