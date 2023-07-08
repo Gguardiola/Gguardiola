@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Gabriel!</h1>
-<h3 align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad (algunos más cutres que otros 🥸). <br> Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</h3>
+<h3 align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad <br>(algunos más cutres que otros 🥸). <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</h3>
+
+<h4>Lo que objetivamente se me da mejor es administración de sistemas, redes y scripting</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
