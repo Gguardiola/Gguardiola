@@ -12,7 +12,7 @@
 
 - 📝 Android app - Cook Today | JS/Cordova/DOM [https://github.com/Gguardiola/Cook-Today](https://github.com/Gguardiola/Cook-Today)
 
-- 📫 Web app - Proyecto Transmed | NextJS/React  [https://github.com/PTIN-2023/web](*https://github.com/PTIN-2023/web)
+- 📫 Web app - Proyecto Transmed | NextJS/React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
 
 - 📄 Web app - Proyecto BBDD | NextJS/React [https://github.com/Gguardiola/proyecto-bbdd-app](https://github.com/Gguardiola/proyecto-bbdd-app)
 
