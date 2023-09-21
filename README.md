@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gabriel!</h1>
-<h3 align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad <br>(algunos más cutres que otros 🥸). <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</h3>
+<p align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad <br>(algunos más cutres que otros 🥸). <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</p>
 
 <h4 align="center">Lo que objetivamente se me da mejor es administración de sistemas, redes y scripting</h4>
 
