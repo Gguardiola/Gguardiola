@@ -5,16 +5,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
-- 🌱 Actualmente aprendiendo **NextJS, React, C# para Unity y Blender**
+- 🌱 Actualmente aprendiendo **Next.js, React, Java y Blender**
   
 
 - 👨‍💻 Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL [https://github.com/Gguardiola/Sidius-CaptivePortal](https://github.com/Gguardiola/Sidius-CaptivePortal)
 
 - 📝 Android app - Cook Today | JS/Cordova/DOM [https://github.com/Gguardiola/Cook-Today](https://github.com/Gguardiola/Cook-Today)
 
-- 📫 Web app - Proyecto Transmed | NextJS/React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
+- 📫 Web app - Proyecto Transmed | Next.js/React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
 
-- 📄 Web app - Proyecto BBDD | NextJS/React [https://github.com/Gguardiola/proyecto-bbdd-app](https://github.com/Gguardiola/proyecto-bbdd-app)
+- 📄 Web app - Proyecto BBDD (CRUD) | Next.js/React [https://github.com/Gguardiola/proyecto-bbdd-app](https://github.com/Gguardiola/proyecto-bbdd-app)
 
 - ⚡ Script - Servidor/Cliente TFTP | Python [https://github.com/Gguardiola/XACO-Protocol-TFTP](https://github.com/Gguardiola/XACO-Protocol-TFTP)
 
