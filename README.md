@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Gabriel!</h1>
-<p align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad. <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity, Photoshop o tecnologías frontend para UX/UI.</p>
+<p align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad. <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity y tecnologías frontend.</p>
 
 <h4 align="center">Mi especialidad es la administración de sistemas, redes y scripting</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
-- 🌱 Actualmente aprendiendo **Next.js, React, Java y Blender**
+- 🌱 Actualmente aprendiendo **React, Java y Blender**
   
 
 - 👨‍💻 Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL [https://github.com/Gguardiola/Sidius-CaptivePortal](https://github.com/Gguardiola/Sidius-CaptivePortal)
