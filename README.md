@@ -1,4 +1,4 @@
-<h1 align="center">Hola!! 👋</h1>
+<h1 align="center">Hola 👋, soy Gabriel!</h1>
 <p align="center">Bienvenido a mi GitHub donde guardo desde proyectos personales hasta proyectos de la universidad. <br>Me gusta programar con el objetivo de aprender nuevas tecnologías pero sobre todo me entusiasma aprender a utilizar herramientas creativas cómo Blender, Unity y tecnologías frontend.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
