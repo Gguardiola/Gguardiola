@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
-- 🌱 Actualmente aprendiendo **React, Java y Blender**
+- 🌱 Actualmente aprendiendo **React, tecnologías backend (microservicios) y Blender**
   
 
 - 👨‍💻 Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL [https://github.com/Gguardiola/Sidius-CaptivePortal](https://github.com/Gguardiola/Sidius-CaptivePortal)
