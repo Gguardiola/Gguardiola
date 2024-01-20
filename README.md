@@ -10,11 +10,13 @@
 
 - 📝 Android app - Cook Today | JS/Cordova/DOM [https://github.com/Gguardiola/Cook-Today](https://github.com/Gguardiola/Cook-Today)
 
-- 📫 Web app - Proyecto Transmed | Next.js/React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
+- 📫 Web app - Proyecto TRANSMED | NextJS/React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
 
-- 📄 Web app - Proyecto BBDD (CRUD) | Next.js/React [https://github.com/Gguardiola/proyecto-bbdd-app](https://github.com/Gguardiola/proyecto-bbdd-app)
+- 📄 Web app - GoodGifts | NextJS/React [https://github.com/Gguardiola/goodgifts-nextjs-app](https://github.com/Gguardiola/goodgifts-nextjs-app)
+  
+- ⚙️ API REST - GoodGifts API | NodeJS + Express + JWT [https://github.com/Gguardiola/goodgifts-rest-api](https://github.com/Gguardiola/goodgifts-rest-api)
 
-- ⚡ Script - Servidor/Cliente TFTP | Python [https://github.com/Gguardiola/XACO-Protocol-TFTP](https://github.com/Gguardiola/XACO-Protocol-TFTP)
+- ⚡ Scripting - Servidor/Cliente TFTP | Python [https://github.com/Gguardiola/XACO-Protocol-TFTP](https://github.com/Gguardiola/XACO-Protocol-TFTP)
 
 <p align="left">
 </p>
