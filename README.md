@@ -6,7 +6,7 @@
 - 🌱 Actualmente aprendiendo **React, tecnologías backend (microservicios) y Blender**
   
 
-- 👨‍💻 Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL [https://github.com/Gguardiola/Sidius-CaptivePortal](https://github.com/Gguardiola/Sidius-CaptivePortal)
+- 👨‍💻 [Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL](https://github.com/Gguardiola/Sidius-CaptivePortal)
 
 - 📝 Android app - Cook Today | JS + Cordova [https://github.com/Gguardiola/Cook-Today](https://github.com/Gguardiola/Cook-Today)
 
