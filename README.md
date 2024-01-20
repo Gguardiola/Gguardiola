@@ -8,15 +8,15 @@
 
 - 👨‍💻 [Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL](https://github.com/Gguardiola/Sidius-CaptivePortal)
 
-- 📝 Android app - Cook Today | JS + Cordova [https://github.com/Gguardiola/Cook-Today](https://github.com/Gguardiola/Cook-Today)
+- 📝 [Android app - Cook Today | JS + Cordova](https://github.com/Gguardiola/Cook-Today)
 
-- 📫 Web app - Proyecto TRANSMED | NextJS + React  [https://github.com/PTIN-2023/web](https://github.com/PTIN-2023/web)
+- 📫 [Web app - Proyecto TRANSMED | NextJS + React](https://github.com/PTIN-2023/web)
 
-- 📄 Web app - GoodGifts | NextJS + React [https://github.com/Gguardiola/goodgifts-nextjs-app](https://github.com/Gguardiola/goodgifts-nextjs-app)
+- 📄 [Web app - GoodGifts | NextJS + React](https://github.com/Gguardiola/goodgifts-nextjs-app)
   
-- ⚙️ API REST - GoodGifts API | NodeJS + Express + JWT [https://github.com/Gguardiola/goodgifts-rest-api](https://github.com/Gguardiola/goodgifts-rest-api)
+- ⚙️ [API REST - GoodGifts API | NodeJS + Express + JWT](https://github.com/Gguardiola/goodgifts-rest-api)
 
-- ⚡ Scripting - Servidor/Cliente TFTP | Python [https://github.com/Gguardiola/XACO-Protocol-TFTP](https://github.com/Gguardiola/XACO-Protocol-TFTP)
+- ⚡ [Scripting - Servidor/Cliente TFTP | Python](https://github.com/Gguardiola/XACO-Protocol-TFTP)
 
 <p align="left">
 </p>
