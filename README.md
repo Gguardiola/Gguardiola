@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gguardiola&label=Profile%20views&color=0e75b6&style=flat" alt="gguardiola" /> </p>
 
-- 🌱 Actualmente desarrollando **mi propia arquitectura de microservicios [Boira Microservices v1](https://github.com/Gguardiola/Boira-Microservices-v1) para alojar mis proyectos.**
+- 🌱 Actualmente desarrollando **arquitectura de microservicios [Boira Microservices v1](https://github.com/Gguardiola/Boira-Microservices-v1)** para alojar mis proyectos y GoodGifts (web app en React).
   
 
 - 👨‍💻 [Web app - Portal cautivo | Bash/Python/PHP/HTML/MySQL](https://github.com/Gguardiola/Sidius-CaptivePortal)
