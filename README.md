@@ -9,7 +9,7 @@ I enjoy diving into programming to explore new technologies, especially in the a
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [gabodev.com](http://gabodev.com)
 * ✉️  You can contact me at [gabriel.guardiola1999@gmail.com](mailto:gabriel.guardiola1999@gmail.com)
-* 🚀  I'm currently working on [Boira microservices v1 (my own microservices architecture)](http://github.com/Gguardiola/Boira-Microservices-v1)
+* 🚀  I'm currently working on [Boira microservices v1 (my own microservices architecture)](http://github.com/Gguardiola/Boira-Microservices-v1) and my personal portfolio
 * 🧠  I'm learning React, Java and some backend technologies
 
 ### Skills
